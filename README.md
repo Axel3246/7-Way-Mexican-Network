@@ -7,7 +7,7 @@
 The following report aims to address the design, configuration, and interconnection of seven local networks to the existing infrastructure of an organization located in Monterrey, which must guarantee efficient and error-free operation. Using Cisco Packet Tracer software, the physical and logical configuration of the proposed devices for the proposed networks was carried out, and connectivity tests were performed in each of them to verify the correct functioning of the networks. The result of this simulation is a group of interconnected and functional networks that can communicate without any problem.
 
 <p align="center">
-    <img src="https://github.com/Axel3246/7-Way-Mexican-Network/blob/main/Photopkt.png?raw=true" class="center" width="60%" height="60%">
+    <img src="https://github.com/Axel3246/7-Way-Mexican-Network/blob/main/Photopkt.png?raw=true" class="center" width="70%" height="70%">
 </p>
 
 ## Contributors
